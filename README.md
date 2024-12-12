@@ -1,4 +1,4 @@
-To view the demo: **[click here](https://jmp-porfolio.netlify.app/)**
+To view the demo: **[click here](https://jmdp-porfolio.netlify.app/)**
 
 ---
 
